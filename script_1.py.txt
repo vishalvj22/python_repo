@@ -1,5 +1,3 @@
-
-
 lion=2
 white_tiger = 2
 red_deer = 50
